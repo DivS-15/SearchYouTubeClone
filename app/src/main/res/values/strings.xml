@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Divyansh_S YT Clone</string>
+    <string name="carry_minati">Carry Minati</string>
+    <string name="loading">Loading</string>
+    <string name="search_youtube">Search YouTube</string>
+    <string name="no_results">No results</string>
+    <string name="youtube_video_thumbnail">YouTube Video ThumbNail</string>
+</resources>
