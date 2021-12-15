@@ -10,7 +10,7 @@
     <ImageView
         android:id="@+id/video_image"
         android:layout_width="match_parent"
-        android:layout_height="250dp"
+        android:layout_height="225dp"
         android:adjustViewBounds="true"
         android:contentDescription="@string/youtube_video_thumbnail"
         android:paddingBottom="8dp"
