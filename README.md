@@ -13,6 +13,6 @@ Libraries:
 2. OkHttp for HttpLoggingInterceptor
 3. Coil lib. for Image loading
 
-And of-course our favourite Kotlin-Coroutines for suspending main-safe functions
+And of-course our favourite Kotlin-Coroutines for main-safe functions
 
 Clone this project and run on Android Studio Arctic Fox. Supply your own api-key as there is restriction from Google Cloud's end.
