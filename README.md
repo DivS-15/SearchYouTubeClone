@@ -12,7 +12,7 @@ So here is an individual solution for the same.
 2. The Client app searches YouTube's database of over 1 Lakh results related to the query and presents them page-by-page or in small chunks of data, so the system's resources are    not wasted.
 
 3. Implements In-memory caching and displays data from the cache when there is no internet.
-![YT 1]()
+
 
 
 
