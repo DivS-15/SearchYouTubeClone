@@ -39,7 +39,7 @@ So here is an individual solution for the same.
 
 ### 3. LiveData and ViewModel are used to handle Ui Logic.
  - search-query is defined as **MutableLiveData of type SavedStateHandle** to listen to user's action in the ui-layer
- - Search and Scroll actions are governed by logic implemented by respected **sealed classes in ViewModel** 
+ - Search and Scroll actions are governed by logic implemented by respective **sealed classes in ViewModel** 
        
   
 ## Application Link and Future Scopes:
