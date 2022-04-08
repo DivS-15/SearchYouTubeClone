@@ -46,6 +46,11 @@ So here is an individual solution for the same.
 Clone the Repo and supply your YouTube api key to get started.
 We are planning to implement a fragment that displays most-popular video-images in India.
 Also a Login-module will be implemented for the benifit of authorised users.
+
+This App is featured in the Google Developers Blog.
+
+Check this out: 
+https://developers.googleblog.com/2022/04/gdsc-indias-android-study-jams-boost.html
      
 
 
